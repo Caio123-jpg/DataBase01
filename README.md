@@ -1,2 +1,2 @@
-# DataBase01
-First activity of database class.
+# DataBase classes
+Activity of database class.
